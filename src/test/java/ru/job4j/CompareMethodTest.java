@@ -1,8 +1,8 @@
 package ru.job4j;
 
 import org.junit.jupiter.api.Test;
+import ru.job4j.sort.CompareMethod;
 
-import static org.assertj.core.api.Assertions.*;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class CompareMethodTest {

@@ -1,4 +1,4 @@
-package ru.job4j;
+package ru.job4j.sort;
 
 public class CompareMethod {
     public static int ascendingCompare(int first, int second) {
